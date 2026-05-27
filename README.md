@@ -82,4 +82,4 @@ This code is developed heavily relying on [I2SB](https://github.com/NVlabs/I2SB)
 Thanks for these great projects. Please follow the licenses of the above open-source code.
 
 ## Acknowledgements
-Thank you,  Zhang Zicheng, for your strong support for this work. Wish you good health and a bright future.
+Thank you,  Zhang Zicheng, for your strong support for this work. 
