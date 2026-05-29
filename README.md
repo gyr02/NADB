@@ -2,7 +2,7 @@
 
 Official PyTorch implementation of **NADB**
 
-### | [Arxiv]() |
+### | [Arxiv](https://arxiv.org/abs/2605.28962) |
 We updated the hyperparameters in image translation, please see [`scripts/train.sh`](https://github.com/gyr02/NADB/scripts/train.sh) and 
 [`scripts/sample.sh`](https://github.com/gyr02/NADB/scripts/sample.sh).
 
