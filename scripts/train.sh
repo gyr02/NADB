@@ -17,11 +17,11 @@ python train.py --n-gpu-per-node $N_GPU --use-mean --corrupt blur-uni
 
 # Image translation(edges2handbags)
 python train.py --n-gpu-per-node $N_GPU --train-mean --corrupt edges2handbags
-python train.py --n-gpu-per-node $N_GPU --use-mean --corrupt edges2handbags
+python train.py --n-gpu-per-node $N_GPU --use-mean --corrupt edges2handbags --cond-x1
 #"--train-mean" can effectively improve the distortion loss metric.
 
 # Image translation(edges2shoes)
 #Do not use mean network
-python train.py --n-gpu-per-node $N_GPU  --corrupt edges2shoes
+python train.py --n-gpu-per-node $N_GPU  --corrupt edges2shoes --cond-x1
 
 
